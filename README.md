@@ -2,6 +2,8 @@
 
 > stream-notifier makes it easy to setup native Mac, Windows and Linux notifications (using [notifier](https://www.npmjs.com/package/node-notifier)) for error- and success-reporting in streams.
 
+![stream-notifier](stream-notifier.gif)
+
 ## Using stream-notifier with gulp:
 
 ``` js
